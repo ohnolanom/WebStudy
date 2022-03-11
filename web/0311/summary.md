@@ -1,4 +1,4 @@
-# HTML에 CSS를 적용하는 방법
+# 📌 HTML에 CSS를 적용하는 방법
 ## 1. Inline Style Sheet
 : HTML 태그의 **style 속성**에 CSS 코드를 넣는 방법이다.
 ```html
@@ -34,7 +34,8 @@ h1태그가 선택자가 되고, CSS코드에는 속성과 값만 들어가서 C
     ```
 보통 가장 많이 사용하는 방법으로, CSS와 HTML 파일이 분리되어 있어 가독성도 좋고 재사용도 가능하다. 
 
-# HTML에 JavaScript를 연결하는 방법
+HTML과 CSS의 연결에 대한 내용은 [해당사이트](https://velog.io/@muz/HTML%EC%97%90-CSS-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)에서 가져왔다.
+# 📌 HTML에 JavaScript를 연결하는 방법
 ## 0. 동기와 비동기
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTMcyJ%2FbtqElX4OJAM%2FxhfNvFTI67HwQT9mP2GI2k%2Fimg.png" width="400px"> </img>
 
@@ -101,3 +102,10 @@ h1태그가 선택자가 되고, CSS코드에는 속성과 값만 들어가서 C
 ```
 
 HTML과 JavaScript를 연결에 대한 자세한 설명은 [해당사이트](https://velog.io/@muz/JavaScript-html-%ED%8C%8C%EC%9D%BC-%EC%86%8D-script%EB%8A%94-%EC%96%B4%EB%94%94%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C#html%ED%8C%8C%EC%9D%BC%EA%B3%BC-javascript-%ED%8C%8C%EC%9D%BC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-)를 읽어보자. 
+
+# 📌 JavaScript의 String과 Array
+## String 
+- [String]() 정리하기
+- 
+## Array
+- [Array]() 정리하기
