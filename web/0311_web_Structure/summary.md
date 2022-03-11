@@ -35,6 +35,9 @@ h1태그가 선택자가 되고, CSS코드에는 속성과 값만 들어가서 C
 보통 가장 많이 사용하는 방법으로, CSS와 HTML 파일이 분리되어 있어 가독성도 좋고 재사용도 가능하다. 
 
 # HTML에 JavaScript를 연결하는 방법
+## 0. 동기와 비동기
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTMcyJ%2FbtqElX4OJAM%2FxhfNvFTI67HwQT9mP2GI2k%2Fimg.png" width="400px"> </img>
+
 ## 1. `<head>`에 js파일 연결하기
 `<head>`안에 `<script>`태그를 넣는 방법이다. 
 ```html
