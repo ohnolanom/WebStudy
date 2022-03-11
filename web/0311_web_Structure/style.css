@@ -1,0 +1,15 @@
+h1 {
+  color: blueviolet;
+}
+
+.purchaseList {
+  border: 2px yellow solid;
+}
+
+.item {
+  font-size: 20px;
+}
+
+.item .candy {
+  color: red;
+}
