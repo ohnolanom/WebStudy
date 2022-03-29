@@ -7,7 +7,7 @@
 |3|22.03.18|HTTP, HTTP Methods and Status |network/http
 |4|22.03.23|HTTP header, Cookie, cache|network/http
 |5|22.03.25|1. JavaScript Array method<br>2. Node.js와 NPM, semantic version|web/0325
-|6|22.03.29||
+|6|22.03.29|1. JSON<br>2. Callback|web/0329|
 |7|22.04.01||
 |8|22.04.||
 ||||
