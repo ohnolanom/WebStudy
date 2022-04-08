@@ -9,7 +9,7 @@
 |5|22.03.25|1. JavaScript Array method<br>2. Node.js와 NPM, semantic version|web/0325
 |6|22.03.29|1. JSON<br>2. Callback|web/0329|
 |7|22.04.06|node.js api(1)|node_study|
-|8|22.04.08|node.js api(2)|
+|8|22.04.08|node.js api(2)|node_study|
 ||||
 
 
