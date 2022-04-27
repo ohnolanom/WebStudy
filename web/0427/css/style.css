@@ -1,0 +1,49 @@
+body {
+    overflow: hidden;
+    background-color: rgb(255, 248, 238);
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+section {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+section .textItem {
+    position: absolute;
+    font-size: 2.5rem;
+    /* text-align: right; */
+    color: white;
+}
+
+.buttonBox {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.buttonBox button {
+    position: relative;
+    /* z-index: 100; */
+    margin: 0 5px;
+    background-color: black;
+    color: #fff;
+    padding: 10px 15px;
+    transition: all .3s ease-out;
+    border:none;
+}
+.buttonBox button:hover {
+    background-color: #ff5c5c;
+}
+
+.buttonBox button.active {
+
+}

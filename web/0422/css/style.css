@@ -1,0 +1,70 @@
+body {
+    overflow: hidden;
+    background-color: rgb(255, 248, 238);
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+section {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+section .cardItem {
+    position: absolute;
+    width: 200px;
+    height: 110px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 12px rgba(0,0,0,0.3) ;
+    font-size: 1rem;
+    text-align: right;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+section .cardItem:nth-child(1) {
+    background: linear-gradient(to right, #25bd7b, #F7CE68);
+}
+
+section .cardItem:nth-child(2) {
+    background: linear-gradient(160deg, #0093E9, #80D0C7);
+}
+
+section .cardItem:nth-child(3) {
+    background: linear-gradient(to bottom left, #ff5c5c, #9e5dca);
+}
+
+section .cardItem:nth-child(4) {
+    background: linear-gradient(20deg, #FF5E7E, #FF99AC);
+}
+
+section .cardItem:nth-child(5) {
+    background: linear-gradient(to left, #e89a50, #ffea8f);
+}
+
+.buttonBox {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.buttonBox button {
+    position: relative;
+    /* z-index: 100; */
+    margin: 0 5px;
+    background-color: black;
+    color: #fff;
+    padding: 10px 15px;
+    transition: all .3s ease-out;
+    border:none;
+}
+.buttonBox button:hover {
+    background-color: #ff5c5c;
+}
