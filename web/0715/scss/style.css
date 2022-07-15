@@ -1,0 +1,32 @@
+header {
+  padding: 50px;
+  border: 2px pink solid;
+}
+header h1 {
+  color: pink;
+  font-size: 30px;
+}
+
+div {
+  padding: 30px;
+  border: 2px solid purple;
+  padding: 50px;
+}
+div input {
+  width: 200px;
+  height: 50px;
+  color: purple;
+}
+div button {
+  width: 200px;
+  border: 1px solid black;
+  color: white;
+  padding: 50px;
+}
+div button:hover {
+  background-color: yellow;
+}
+
+.bgcolor {
+  background-color: pink;
+}/*# sourceMappingURL=style.css.map */
